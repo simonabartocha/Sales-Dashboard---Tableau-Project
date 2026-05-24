@@ -28,6 +28,20 @@ Data based on the Superstore dataset, consisting of four related tables:
 - **Highlighting** of the best and worst performing months (Highest / Lowest Month)
 - **Sales & Profit by Subcategory** – 2023 vs 2022 comparison with profit/loss indicators
 - **Sales & Profit Trends over Time** – monthly trends with average reference line
+  
+ ### Interactive Controls & Legend
+When expanding the filter/legend panel, the following controls are available:
+
+- **Select Year** – dropdown to dynamically switch the year displayed across all views
+- **Measure Names** filter – allows toggling individual measures on/off, including:
+  - `Min/Max Sales` – highlights the best and worst sales months
+  - `Min/Max Profit` – highlights the best and worst profit months
+  - `Min/Max Quantity` – highlights the best and worst quantity months
+  - `CY Profit` – current year profit bars (scale visible, e.g. up to ~$35K)
+  - `CY Sales` – current year sales bars (scale: $1K – $35K)
+  - `KPI Profit Avg` – reference line showing average profit threshold
+
+  ![Sales Dashboard Tebleu](Sales_Dashboard_Tebleu.png)
 
 ### Calculated Fields (selected)
 - `Current Year` / `Previous Year` – dynamic year filtering
