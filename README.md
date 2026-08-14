@@ -58,7 +58,7 @@ Data based on the Superstore dataset, consisting of four related tables:
 - **Customer Distribution by Region** – interactive US map showing
   customer count per state, with the top state highlighted
 
-  ![Customers Dashboard](./Customers%20Dashboard%20Tableu.png)
+![Customers Dashboard](./Customers%20Dashboard%20Tableu.png)
 
 ## 🧮 Calculated Fields (selected)
 
@@ -68,7 +68,7 @@ Data based on the Superstore dataset, consisting of four related tables:
 - Min/Max Sales, Min/Max Profit, Min/Max Quantity – highlighting extreme
   months
 
-  ![Functions change](./Functions%20change%20Tableu.png)
+![Functions change](./Functions%20change%20Tableu.png)
 
 ## 🛠️ Tools & Technologies
 
